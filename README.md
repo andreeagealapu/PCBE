@@ -2,10 +2,10 @@
 Proiect 1 - Server de mesagerie
 
 Echipa este formată din:
-	Nicolae Cristina
-	Gealapu Andreea
-	Culda Paula
-	Covaci Crina
+	Nicolae Cristina,
+	Gealapu Andreea,
+	Culda Paula,
+	Covaci Crina.
 	
 	
 	Proiectul nostru este serverul de mesagerie. 
